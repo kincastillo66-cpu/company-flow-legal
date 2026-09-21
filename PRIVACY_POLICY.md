@@ -2,7 +2,7 @@
 
 **Última actualización: 21 de septiembre de 2026**
 
-Esta Política de Privacidad describe cómo **Company Flow** ("el Desarrollador") maneja la información en la aplicación móvil **Company Flow** ("la Aplicación").
+Esta Política de Privacidad describe cómo **Eulises** ("el Desarrollador") maneja la información en la aplicación móvil **Company Flow** ("la Aplicación").
 
 ## 1. Información que NO Recopilamos
 
